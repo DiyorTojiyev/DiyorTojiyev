@@ -11,7 +11,7 @@ Full Stack developer
 
 ### Languages and tools I work with:
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="30px"></code>
-<code><https://logowik.com/content/uploads/images/3799-javascript.jpg" width="30px"></code>
+<code><img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="30px"></code>
