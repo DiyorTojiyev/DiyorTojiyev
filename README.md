@@ -26,4 +26,4 @@ Full Stack developer
 
 - 📍&nbsp; Current location:  Moscow, Russian Federation
 -  📝 &nbsp; Ask me about anything, I am happy to help 
-- 📩 &nbsp; How to reach me: [tojiyevdiyor66@gmail.com](https://gmail/tojiyevdiyor66@gmail.com/)
+- 📩 &nbsp; How to reach me: [tojiyevdiyor66@gmail.com](https://gmail.com/tojiyevdiyor66@gmail.com/)
