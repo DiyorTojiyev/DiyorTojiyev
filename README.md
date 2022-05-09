@@ -3,5 +3,4 @@
  I'm a Student of RUDN📖👨‍💻👨‍🎓(Российский Университет Дружбы Народов)<br/>
  
 I can speak 3 languages: English, Russian and Uzbek. <br/>
-
 Full Stack developer
