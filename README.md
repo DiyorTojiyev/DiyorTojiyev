@@ -21,3 +21,9 @@ Full Stack developer
 <code><img src="https://d2jq2hx2dbkw6t.cloudfront.net/182/vuejs-logo.jpg" width="40px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="40px"></code>
 <code><img src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" width="40px"></code>
+
+<br/>
+
+- 📍&nbsp; Current location:  Moscow, Russian Federation
+-  📝 &nbsp; Ask me about anything, I am happy to help 
+- 📩 &nbsp; How to reach me: [tojiyevdiyor66@gmail.com]
