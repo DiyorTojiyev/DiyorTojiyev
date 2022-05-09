@@ -5,4 +5,4 @@
 I can speak 3 languages: English, Russian and Uzbek. <br/>
 Full Stack developer
 
-<a href"https://https://t.me@DiyorTojiyev/"</a>
+<a href"https://https://t.me@DiyorTojiyev/">dd</a>
