@@ -16,3 +16,8 @@ Full Stack developer
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="30px"></code>
 <code><img src="https://commons.bmstu.wiki/images/b/b8/Bootstrap.png" width="30px"></code>
+<code><img src="https://symfony.com/logos/symfony_black_03.png" width="30px"></code>
+<code><img src="https://images.app.goo.gl/mRzjJcMbZGmfPn2V8" width="30px"></code>
+<code><img src="" width="30px"></code>
+<code><img src="" width="30px"></code>
+<code><img src="" width="30px"></code>
