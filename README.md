@@ -18,6 +18,6 @@ Full Stack developer
 <code><img src="https://commons.bmstu.wiki/images/b/b8/Bootstrap.png" width="30px"></code>
 <code><img src="https://symfony.com/logos/symfony_black_03.png" width="30px"></code>
 <code><img src="https://api-platform.com/logo.png" height="40px"></code>
-<code><img src="" width="30px"></code>
-<code><img src="" width="30px"></code>
-<code><img src="" width="30px"></code>
+<code><img src="https://d2jq2hx2dbkw6t.cloudfront.net/182/vuejs-logo.jpg" width="30px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="30px"></code>
+<code><img src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" width="30px"></code>
