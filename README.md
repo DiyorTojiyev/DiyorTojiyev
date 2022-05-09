@@ -17,7 +17,7 @@ Full Stack developer
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="30px"></code>
 <code><img src="https://commons.bmstu.wiki/images/b/b8/Bootstrap.png" width="30px"></code>
 <code><img src="https://symfony.com/logos/symfony_black_03.png" width="30px"></code>
-<code><img src="https://api-platform.com/logo.png" width="30px"></code>
+<code><img src="https://api-platform.com/logo.png" width="50px"></code>
 <code><img src="" width="30px"></code>
 <code><img src="" width="30px"></code>
 <code><img src="" width="30px"></code>
