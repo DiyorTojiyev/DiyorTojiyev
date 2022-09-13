@@ -1,6 +1,7 @@
 ### Hi, I'm Diyor Tojiyev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="40px">
  
  I'm a Student of RUDN📖👨‍💻👨‍🎓(Российский Университет Дружбы Народов)<br/>
+ I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Symfony. I solve problems, automate things, help businesses and people to grow and improve life.
  I can speak in three languages: English, Russian and Uzbek. <br/>
 Full Stack developer
 
